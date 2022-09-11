@@ -73,5 +73,30 @@
       "activservers": "Active Server's",
       "registerdusers": "Registered Users",
       "uptime": "Uptime"
+    },
+     "es": {
+      "heading1": "Bienvenido a su alojamiento gratuito",
+      "heading2": "Bienvenido a Karlo-Hosting",
+      "landingbttncomm": "Comunidad",
+      "landingbttnstartnow": "Empezar ahora",
+      "products": "Nuestros productos",
+      "mysqlheading": "Base de datos MYSQL",
+      "mysqlonline": "En línea 24/7",
+      "mysqluptime": "99% de tiempo de actividad",
+      "mysqlincluded": "PhpMyAdmin incluido",
+      "mysqlbackups": "Copias de seguridad diarias",
+      "discordheading": "Bots de discordia",
+      "discordonline": "24/7 Online",
+      "discorduptime": "99% de tiempo de actividad",
+      "discordincluded": "1 Base de datos incluida",
+      "discordfor": "Para bots de JavaScript, Python y Java.",
+      "PostegreSQLheading": "PostgreSQL",
+      "PostegreSQLonline": "En línea 24/7",
+      "PostegreSQLuptime": "99% de tiempo de actividad",
+      "PostegreSQLbackups": "Copias de seguridad diarias",
+      "stats": "Stats",
+      "activservers": "El servidor activo",
+      "registerdusers": "Usuarios registrados",
+      "uptime": "Tiempo de funcionamiento"
     }
   }
